@@ -1,0 +1,18 @@
+ant			fontconfig		go			jenv			libsmi			metis			opus			qhull			unbound
+arpack			freetype		gobject-introspection	jpeg			libsndfile		mpfr			p11-kit			qrupdate		unibilium
+autoconf		fribidi			gradle			libcerf			libssh			msgpack			pandoc			qscintilla2		unrar
+bash			gcc			graphicsmagick		libde265		libtasn1		mysql			pandoc-citeproc		qt			utf8proc
+bdw-gc			gd			graphite2		libev			libtermkey		ncurses			pango			r			vim
+c-ares			gdbm			guile			libevent		libtiff			neovim			pcre			readline		webp
+cairo			gdk-pixbuf		harfbuzz		libffi			libtool			netpbm			pcre2			ruby			wget
+cmake			gettext			hdf5			libgcrypt		libunistring		nettle			perl			shared-mime-info	x265
+coq			ghostscript		hugo			libgpg-error		libuv			nghttp2			pipenv			sip			xmlto
+docbook			git			hwloc			libheif			libvorbis		node			pixman			sqlite			xz
+docbook-xsl		gl2ps			icu4c			libidn2			libvterm		ocaml			pkg-config		suite-sparse		zsh
+eigen			glib			ilmbase			liblqr			libyaml			ocaml-zarith		plotutils		sundials
+entr			glpk			imagemagick		libmaxminddb		little-cms2		open-mpi		portaudio		szip
+epstool			gmp			infer			libmpc			lua			openblas		protobuf		tbb
+fftw			gnu-getopt		isl			libogg			lua@5.1			openexr			pstoedit		tcl-tk
+fig2dev			gnu-sed			jansson			libomp			luajit			openjdk			pyqt			texinfo
+flac			gnuplot			jasper			libpng			lzo			openjpeg		python@3.8		tmux
+fltk			gnutls			jemalloc		librsvg			maven			openssl@1.1		python@3.9		tree

@@ -1,5 +1,5 @@
 export PATH="/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"
-export PATH="/usr/local/opt/python@3.8/libexec/bin:$PATH"
+export PATH="/usr/local/opt/python@3.9/libexec/bin:$PATH"
 export PATH="/usrrlocal/opt/ruby/bin:$PATH"
 export PATH="/usr/local/opt/ncurses/bin:$PATH"
 export PATH="/usr/local/opt/icu4c/bin:$PATH"
@@ -16,3 +16,8 @@ jdk() {
         export JAVA_HOME=$(/usr/libexec/java_home -v"$version");
         java -version
  }
+
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+

@@ -3,6 +3,8 @@ arpack
 autoconf
 bash
 cmake
+coq
+entr
 epstool
 fftw
 fig2dev
