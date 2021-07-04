@@ -1,18 +1,48 @@
-ant			fontconfig		go			jenv			libsmi			metis			opus			qhull			unbound
-arpack			freetype		gobject-introspection	jpeg			libsndfile		mpfr			p11-kit			qrupdate		unibilium
-autoconf		fribidi			gradle			libcerf			libssh			msgpack			pandoc			qscintilla2		unrar
-bash			gcc			graphicsmagick		libde265		libtasn1		mysql			pandoc-citeproc		qt			utf8proc
-bdw-gc			gd			graphite2		libev			libtermkey		ncurses			pango			r			vim
-c-ares			gdbm			guile			libevent		libtiff			neovim			pcre			readline		webp
-cairo			gdk-pixbuf		harfbuzz		libffi			libtool			netpbm			pcre2			ruby			wget
-cmake			gettext			hdf5			libgcrypt		libunistring		nettle			perl			shared-mime-info	x265
-coq			ghostscript		hugo			libgpg-error		libuv			nghttp2			pipenv			sip			xmlto
-docbook			git			hwloc			libheif			libvorbis		node			pixman			sqlite			xz
-docbook-xsl		gl2ps			icu4c			libidn2			libvterm		ocaml			pkg-config		suite-sparse		zsh
-eigen			glib			ilmbase			liblqr			libyaml			ocaml-zarith		plotutils		sundials
-entr			glpk			imagemagick		libmaxminddb		little-cms2		open-mpi		portaudio		szip
-epstool			gmp			infer			libmpc			lua			openblas		protobuf		tbb
-fftw			gnu-getopt		isl			libogg			lua@5.1			openexr			pstoedit		tcl-tk
-fig2dev			gnu-sed			jansson			libomp			luajit			openjdk			pyqt			texinfo
-flac			gnuplot			jasper			libpng			lzo			openjpeg		python@3.8		tmux
-fltk			gnutls			jemalloc		librsvg			maven			openssl@1.1		python@3.9		tree
+ant			groonga			libunistring		pipenv
+aom			guile			libuv			pixman
+arpack			harfbuzz		libvorbis		pkg-config
+assimp			hdf5			libvterm		plotutils
+autoconf		heroku			libx11			portaudio
+bash			heroku-node		libxau			postgresql@11
+bdw-gc			hugo			libxcb			protobuf
+berkeley-db		hwloc			libxdmcp		pstoedit
+brotli			icu4c			libxext			pyqt
+c-ares			ilmbase			libxrender		pyqt@5
+cairo			imagemagick		libyaml			python@3.8
+cmake			imath			little-cms2		python@3.9
+coq			isl			lua			qhull
+dbus			jansson			lua@5.1			qrupdate
+docbook			jasper			luajit			qscintilla2
+docbook-xsl		jbig2dec		luajit-openresty	qt
+double-conversion	jemalloc		lz4			qt@5
+eigen			jenv			lzo			r
+entr			jpeg			m4			readline
+epstool			krb5			maven			ruby
+fftw			libb2			mecab			shared-mime-info
+fig2dev			libcerf			mecab-ipadic		sip
+flac			libde265		metis			six
+fltk			libev			mpdecimal		sqlite
+fontconfig		libevent		mpfr			suite-sparse
+freetype		libffi			msgpack			sundials
+fribidi			libgcrypt		mysql			szip
+gcc			libgpg-error		ncurses			tbb
+gd			libheif			neovim			tcl-tk
+gdbm			libidn			netpbm			texinfo
+gdk-pixbuf		libidn2			nettle			tmux
+geckodriver		liblqr			nghttp2			tree
+gettext			libmaxminddb		ocaml			unbound
+ghostscript		libmpc			ocaml-zarith		unibilium
+git			libogg			open-mpi		unrar
+gl2ps			libomp			openblas		utf8proc
+glib			libpng			openexr			vim
+glpk			libpq			openjdk			webp
+gmp			libproxy		openjpeg		wget
+gnu-getopt		libpthread-stubs	openssl@1.1		x265
+gnu-sed			librsvg			opus			xmlto
+gnuplot			libsmi			p11-kit			xorgproto
+gnutls			libsndfile		pandoc			xz
+go			libssh			pandoc-citeproc		zsh
+gobject-introspection	libtasn1		pango			zstd
+gradle			libtermkey		pcre
+graphicsmagick		libtiff			pcre2
+graphite2		libtool			perl

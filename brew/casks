@@ -1,16 +1,4 @@
-adoptopenjdk11
-adoptopenjdk8
-basictex
-chromium
-discord
-flux
-mactex
-postman
-rectangle
-rstudio
-spotify
-sublime-text
-typora
-visual-studio-code
-vlc
-wireshark
+adoptopenjdk11          coqide                  mactex                  spotify                 visual-studio-code
+adoptopenjdk8           discord                 postman                 sublime-text            vlc
+chromium                flux                    rectangle               typora                  wireshark
+
